@@ -1,0 +1,6 @@
+Ivanov     Ivan    12.12.2012
+Sidorov    Sidor   05.05.2005
+Petrov     Petr    01.01.2000
+Tataru     Cornel  22.06.1988
+Morgun     Jana    15.04.1999
+Litvinenco Igor    06.07.1980
